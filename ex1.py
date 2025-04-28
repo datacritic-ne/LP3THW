@@ -1,0 +1,8 @@
+print("Hello World!")
+print("Hello Again")
+print("I sort of like typing these things")
+print("This is sort of fun")
+# print("Yay. Printing things.")
+print("I'd rawther you 'not'.")
+print('I "said" rawther not.')
+print("OK. Just one more line")
